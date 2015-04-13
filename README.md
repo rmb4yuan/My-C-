@@ -1,2 +1,2 @@
-# My-C-
+# My C++
 My C++ Program
